@@ -39,13 +39,12 @@ L’objectif est de démontrer la réalisation complète d’un projet Data Anal
 9. [Mesures DAX](#mesures-dax)
 10. [Pages du rapport](#pages-du-rapport)
 11. [Contrôles réalisés](#contrôles-réalisés)
-12. [Structure du dépôt](#structure-du-dépôt)
-13. [Reproduire le projet](#reproduire-le-projet)
-14. [Choix techniques](#choix-techniques-défendables-en-entretien)
-15. [Compétences démontrées](#compétences-démontrées)
-16. [Limites et améliorations](#limites-et-pistes-damélioration)
-17. [Présentation du projet](#pitch-de-présentation)
-18. [Auteur](#auteur)
+12. [Reproduire le projet](#reproduire-le-projet)
+13. [Choix techniques](#choix-techniques-défendables-en-entretien)
+14. [Compétences démontrées](#compétences-démontrées)
+15. [Limites et améliorations](#limites-et-pistes-damélioration)
+16. [Présentation du projet](#pitch-de-présentation)
+17. [Auteur](#auteur)
 
 ---
 
@@ -839,47 +838,6 @@ Le rapport intègre plusieurs fonctionnalités interactives :
 - test du bouton de retour.
 
 ---
-
-# Structure du dépôt
-
-```text
-banque360-sql-powerbi/
-│
-├── README.md
-│
-├── data/
-│       ├── agences.csv
-│       ├── clients.csv
-│       ├── credits.csv
-│       ├── objectifs_agences.csv
-│       ├── produits.csv
-│       ├── remboursements.csv
-│       └── transactions.csv
-│
-├── sql/
-│   ├── 00_creation_base.sql
-│   ├── 01_creation_schemas.sql
-│   ├── 02_creation_table_raw.sql
-│   ├── 03_import_tables_raw.sql
-│   ├── 04_nettoyage_staging_agences.sql
-│   ├── 05_nettoyage_staging_clients.sql
-│   ├── 06_nettoyage_staging_credits.sql
-│   ├── 07_nettoyage_staging_objectifs_agences.sql
-│   ├── 08_nettoyage_staging_produits.sql
-│   ├── 09_nettoyage_staging_remboursements.sql
-│   ├── 10_nettoyage_staging_transactions.sql
-│   ├── 11_creation_mart_dimensions.sql
-│   ├── 12_creation_mart_faits.sql
-│   └── 13_controles_modele_mart.sql
-│
-├── powerbi/
-│   └── Banque360.pbix
-│
-├── documentation/
-│   └── Banque360_Documentation_Complete.pdf
-
-```
-
 
 # Reproduire le projet
 
