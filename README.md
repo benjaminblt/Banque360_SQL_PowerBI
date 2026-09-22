@@ -43,8 +43,7 @@ L’objectif est de démontrer la réalisation complète d’un projet Data Anal
 13. [Choix techniques](#choix-techniques-défendables-en-entretien)
 14. [Compétences démontrées](#compétences-démontrées)
 15. [Limites et améliorations](#limites-et-pistes-damélioration)
-16. [Présentation du projet](#pitch-de-présentation)
-17. [Auteur](#auteur)
+16. [Auteur](#auteur)
 
 ---
 
