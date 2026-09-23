@@ -1,5 +1,11 @@
 # Banque 360 
 
+<p align="center">
+  <a href="https://github.com/benjaminblt/Banque360_SQL_PowerBI">
+    <img src="banque360.jpg" alt="Banque 360 - SQL Server et Power BI" width="100%">
+  </a>
+</p>
+
 # Projet Data Analyst SQL Server & Power BI
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-CC2927?logo=microsoftsqlserver&logoColor=white)
