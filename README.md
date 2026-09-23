@@ -1,7 +1,7 @@
 # Banque 360 - Projet Data Analyst SQL Server & Power BI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/banque360.jpg"
+  <img src="https://raw.githubusercontent.com/benjaminblt/benjaminblt/main/assets/banque360.jpg"
        alt="Banque 360 - SQL Server et Power BI"
        width="100%">
 </p>
